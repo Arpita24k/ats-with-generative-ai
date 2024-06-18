@@ -1,7 +1,3 @@
-Here's the updated README file with your repository name and description:
-
----
-
 # Smart Application Tracking System (ATS)
 
 ## Introduction
@@ -76,6 +72,3 @@ If you have any questions or feedback about this project, feel free to reach out
 ## Project Status
 This project is in active development. New features and improvements will be added regularly. Stay tuned for updates.
 
----
-
-Let me know if this works for you or if you need any further modifications!
